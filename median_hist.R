@@ -1,4 +1,4 @@
-# Creates a histogram and plots (roundest to the nearest whole number) median
+# Creates a histogram and plots (rounds to the nearest whole number) median
 # removes missing values
 
 median_hist <- function(x, x_label, med_label, med_label_x_cord, med_label_y_cord, color_hist){
