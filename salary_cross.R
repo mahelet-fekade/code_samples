@@ -1,13 +1,5 @@
-# Function: Produces crosstable of salary with a 
-salary_cross <- function(x, 
-                         variable,
-                         salary,
-                         salary_bin, 
-                         salary_bin_numeric,
-                         order_by, # N, levels, alpha
-                         lvls = NULL,
-                         last_ord = NULL
-                         ){
+# Function: Produces crosstable of salary with a categorical variable
+
 # x = data frame 
 # variable = categorical variable, you can calculating salary info for each catogory
 # salary = numeric value of salary 
@@ -19,7 +11,15 @@ salary_cross <- function(x,
 # lvls = level order in x (if you want it ordered). needs to be character vector 
 # last_ord = whatever you order by, the inputs here are put in the bottom of the ordering
 
-  
+salary_cross <- function(x, 
+                         variable,
+                         salary,
+                         salary_bin, 
+                         salary_bin_numeric,
+                         order_by, # N, levels, alpha
+                         lvls = NULL,
+                         last_ord = NULL
+                         ){
 # clean df   
 df <- data.frame(x) %>%
   select({{variable}},
@@ -119,9 +119,3 @@ return(clean_table)
 
 
 
-# test <- formatter("span",
-#                   style = x ~ ifelse(cyl < 5, "formattable::currency(cyl)", "-"))
-# 
-# yesno <- function(x) ifelse(x, "yes", "no")
-# formattable(mtcars, list(cyl = test, qsec = top10red, am = yesno))
-# 
