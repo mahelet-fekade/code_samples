@@ -1,7 +1,7 @@
 ---
-title: '2020 Progressive Data, Analytics, and Technology Salary Survey'
+title: '2021 Progressive Data, Analytics, and Technology Salary Survey'
 author: "Amit Mistry, Cristina Sinclaire, Lena Tom, Mahelet Fekade, and Olivia Robinson"
-date: "5/3/2021"
+date: "8/31/2023"
 output:
   html_document:
     df_print: paged
@@ -18,15 +18,12 @@ output:
 
 **About the Survey:**
 
-This survey was administered in January and February 2021 to progressive and Democratic data, analytics, and technology staff, largely reflecting respondents’ 2020 employment and salaries. Thanks to everyone who participated and/or shared the survey! This was the largest sample yet.
-
+This survey was administered December 2021 - January 2022 to progressive and Democratic data, analytics, and technology staff, largely reflecting respondents’ 2021 employment and salaries. Thanks to everyone who participated and/or shared the survey! 
 
 **How to use the results**
 
 
-
-
-There were 608 respondents recruited using [snowball sampling](https://en.wikipedia.org/wiki/Snowball_sampling). The survey was announced on a few major progressive and Democratic political and/or data email listservs and Slack channels, and readers were encouraged to share the survey around their offices and networks. **This should not be considered a representative sample of all people working in the industry.** The n-size and results as compared to [previous year surveys’](https://www.progressivedatajobs.org/salary-survey/) offer some consistency, particularly at the aggregate level, but some experiences may not be represented. 
+There were 522 respondents recruited using [snowball sampling](https://en.wikipedia.org/wiki/Snowball_sampling). The survey was announced on a few major progressive and Democratic political and/or data email listservs and Slack channels, and readers were encouraged to share the survey around their offices and networks. **This should not be considered a representative sample of all people working in the industry.** The n-size and results as compared to [previous year surveys’](https://www.progressivedatajobs.org/salary-survey/) offer some consistency, particularly at the aggregate level, but some experiences may not be represented. 
 
 This survey may be useful in evaluating salaries and roles of individuals or workplaces, but a survey of this kind should be used with care -- your experience may be different. 
 
@@ -36,76 +33,69 @@ Finally, although useful to benchmark, **employers should NOT determine a role�
 
 We’ve highlighted some findings of interest, but strongly encourage you to review the full analysis.  
 
-
 [**About Respondents:**](#resp_char)
 
-* Gender: About half of respondents were cis women (49%). 43% were cis men. Seven percent were trans or non-binary. 
+* About half of respondents were women (44%). 47% were men. Eight percent were non-binary.
 
-* Respondents were 64% white. This is a notable change from the last survey (2018) where 76% of respondents were white.
+* Respondents were 70% white and 29% BIPOC. 
 
-* The median age was 30, while 36% were between ages 25 and 29. 
+* The median age was 32 with 29% of respondents being between 25-29 and 27% were between ages 25 and 29.
 
-* Slightly fewer than half of respondents’ (47%) families have been in the United States for fewer than three generations.
+* Less than half of respondents’ (40%) families have been in the United States for fewer than three generations.
 
-* 62% of respondents identified as heterosexual/straight. 
+* 61% of respondents identified as heterosexual/straight.
 
-* 57% of respondents have a bachelor's degree; 39% reported a degree higher than a bachelor’s.
+* 59% of respondents have a bachelor’s degree; 31% reported a degree higher than a bachelor’s.
 
-* 15% report having a disability (defined as “a physical or mental impairment or medical condition that substantially limits a major life activity”).
+* 16% report having a disability (defined as “a physical or mental impairment or medical condition that substantially limits a major life activity”).
 
-* 35% of respondents live in the DC area, followed by New York metro area at 8% and Chicago metro area at 6%.
+* 27% of respondents live in the DC area, followed by the New York metro area at 10% and Chicago metro area at 7%.
 
-* Nearly all respondents (96%) were fully employed during the 2020 election cycle.
+* Nearly all respondents (99%) were fully employed during the 2021 election cycle.
 
 
-[**Salary:**](#salary) The median salary was <span style="text-decoration:underline">$88,000</span> and the average salary was <span style="text-decoration:underline">$94,571</span>. 
+[**Salary:**](#salary) The median salary was <span style="text-decoration:underline">$98,000</span> and the average salary was <span style="text-decoration:underline">$106,449</span>. 
 
-* **The 2020 salary survey reflects the first notable increase in both median and average salaries since the start of this survey in 2014.** The five past salary surveys have had a median salary of ~$75,000, +/- $5,000. There are likely multiple factors at play, however this survey did not aim to identify the causes.
+* Compared to non-managers, managers with 1-4 staffers had a median salary of ~$25K more and managers with 5+ staff had a median salary of ~$49K more.
 
-* Compared to non-managers, managers with 1-4 staffers had a median salary of ~$20K more and managers with 5+ staff had a median salary of ~$40K more. 
+* BIPOC have a median salary of $102K versus white people’s median salary of $86.5K. 
+* Men and women had similar median salaries ($101K and $96K respectively). Trans and nonbinary people had a lower median salary ($78K) than their cis colleagues ($100K).
 
-* People of color have a median salary of $85K versus white people’s median salary of $90K. This racial salary gap is notably smaller than in previous surveys. 
+* Heterosexual people have a median salary of $101,833 and queer people have a median of $90K.
 
-* Cis men and cis women had similar median salaries ($90K and $88K respectively). Trans and nonbinary people had a lower median salary ($72,250) than their cis colleagues, but we do not have enough disaggregated data from past surveys to make any comparisons. 
+* People with disabilities have median salaries of $10K less than non-disabled people, consistent with previous years.
 
-* Heterosexual people have a median salary of $90K and queer people have a median of $85K, however average salaries across respondents is essentially the same.
-
-* People with disabilities have median salaries of $15K less than non-disabled people, consistent with previous years.
-
-* Entry-level employees had a median salary of $68,000 (approximately $9K higher compared to [2018](https://www.crackthecode.io/salary2018)); mid-level employees $82,000 (~$8K higher); and senior / department-head employees $110,000 (~$10K higher).
+* Entry-level employees had a median salary of $66,000 (approximately $2K lower compared to 2020); mid-level employees $85,000 (~$3K higher); and senior / department-head employees $120,000 (~$10K higher).
 
 [**Skills + Tools:**](#skill_tools)
 
-* Within the last year, a majority of respondents have either transformed data/generated reports with SQL (74%), managed and reviewed others’ analysis or work (70%), created voter contact universes (59%), or presented the results of an analysis for non-technical leadership (59%). 
+* Within the last year, a majority of respondents have either transformed data/generated reports with SQL (67%), manage and review others’ analysis or work (67%), created voter contact universes (48%), or presented the results of an analysis for non-technical leadership (48%).
 
-* Almost 80% of respondents learned the skills and tools they use weekly at their current and/or previous job.
+* Almost 79% of respondents learned the skills and tools they use weekly at their current and/or previous job.
 
-* A majority of respondents consider themselves to be either “intermediate” or “advanced” with Excel/Google spreadsheets (93%), SQL (73%), and voter file management (65%).
-
+* A majority of respondents consider themselves to be either “intermediate” or “advanced” with Excel/Google spreadsheets (92%), SQL (69%), and voter file management (63%).
 
 [**Job Characteristics:**](#job_char)
 
-* Among respondents, 48% said the primary focus of their organization was data, analytics, or technology. This jumped to 92% for their team and 95% for their role.
+* Among respondents, 57% said the primary focus of their organization was data, analytics, or technology. This jumped to 90% for their team and 93% for their role.
 
-* Respondents work at a variety of organizations, with analytics/polling firms (18%), issue or advocacy organizations (17%), vendors (13%), and political campaigns (9%) making a majority of the organizations represented. 
+* Respondents work at a variety of organizations, with vendors (23%), issue or advocacy organizations (17%),  analytics/polling firms (16%), and other consulting firms (10%) making a majority of the organizations represented.
 
-* A majority of respondents’ primary job function or primary function of their team was general analytics or data science (22%), general data management and reporting (19%), or field/grassroots-focused data (11%). 
-
-* 39% of respondents are managers. The likelihood of being a manager did not meaningfully vary by [race and/or gender](#appendix).
-
+ * A majority of respondents’ primary job function or primary function of their team was general analytics or data science (22%), general data management and reporting (16%), or Engineering / software development (11%)
+ 
+* 44% of respondents are managers. The likelihood of being a manager did meaningfully vary by race and/or gender.
 
 **Other Findings:**
 
-* If respondents were to leave the progressive/Democratic data space, the top reasons were: for a better-paying job (39%); for a better work/life balance (27%); because they feel stagnated or that there isn’t a clear next step in their career (26%); for better opportunities to learn and grow in other fields (24%); or due to burn out (22%).  
+* If respondents were to leave the progressive/Democratic data space, the top reasons were: for a better-paying job (39%); because they feel stagnated or that there isn’t a clear next step in their career (22%); for a better work/life balance (21%); due to burn out (20%); or for better opportunities to learn and grow in other fields (16%).
 
-* 59% of respondents worked somewhere that provided additional benefits due to the [COVID-19 pandemic](#covid).
+* 49% of respondents worked somewhere that required employees to be vaccinated against COVID-19.
 
-* 26% respondents work in a [unionized workplace or have a recognized bargaining unit](#union). Among those respondents, a large plurality (47%) work someplace that has unionized within the past two years.
+* 39% respondents work in a unionized workplace or have a recognized bargaining unit. A 13 percentage point increase compared to the 2020 survey. Among those respondents, a large majority (62%) work someplace that has unionized within the past two years.
 
-**Notes:**  
+**Notes:**
+Black, Indigenous, People of Color (BIPOC) include those who identified as Black, Latinx, Hispanic, Asian, Native, and people who selected multiple race categories. We report differences between BIPOC and White respondents here to preserve anonymity.
 
-* People of Color (POC) include those who identified as Black, Latinx, Hispanic, Asian, Native, and people who selected multiple race categories. We report differences between POC and White respondents here to preserve anonymity.   
-* We use gender bins of Cis Man, Cis Woman, and Trans/Nonbinary in order to surface the areas where Trans respondents are underpaid relative to Cisgender respondents of the same gender.   
 
 
 ```{r setup, include=FALSE}
@@ -142,21 +132,27 @@ library(likert)
 #   overwrite = TRUE
 # )
 
+
 # read into R
-df <- readr::read_csv(here::here("data", "survey_responses.csv"))
+df <- readr::read_csv(
+  here::here(#"progsalarysurvey",
+  "survey2021", "data", "survey_responses.csv"))
 
 # read supporting data files in as well
 compensation_bin_crosswalk <- readr::read_csv(
-  here::here("data", "compensation_bin_crosswalk.csv")
+  here::here(#"progsalarysurvey",
+    "utils", "data", "compensation_bin_crosswalk.csv")
 )
 
 col_names <-  readr::read_csv(
-  here::here("data", "col_name_helper.csv")
+  here::here(#"progsalarysurvey",
+    "survey2021", "data", "col_name_helper.csv")
 )
 
 # source all functions
 func_files <- list.files(
-  path = here::here("analysis", "functions"), full.names = TRUE
+  path = here::here(#"progsalarysurvey",
+    "utils", "functions"), full.names = TRUE
 )
 sapply(func_files, source)
 ```
@@ -167,9 +163,11 @@ df <- df %>%
   filter(
     eligible == TRUE, 
     status == "Complete", 
+    # there are two people in the survey universe with a salary of $65 and $500
     compensation != 0
   )
 ```
+
 
 # Respondent Charateristics{#resp_char}
 
@@ -179,11 +177,22 @@ df <- df %>%
 
 **What is your gender identity?**
 ```{r,  message = FALSE, echo=FALSE}
-tt(df$gender, 
-   order_prop = T, 
-   last_ord = "Prefer not to answer"
+
+tt(df$gender_bin,  order_prop = T)
+
+```
+
+### Transgender
+**Do you identify as transgender?**
+
+```{r, message = FALSE, echo = FALSE }
+tt(df$transgender,
+   order_prop = F,
+   lvls = c("Yes", "No", "Prefer not to answer"),
+   last_ord = "Missing"
 )
 ```
+
 
 ### Race / Ethnicity
 **What is your race / ethnicity? Please select all that apply.**
@@ -205,14 +214,15 @@ tt(df$immigration,
             "One or more of my parents immigrated to the United States",
             "One or more of my grandparents immigrated to the United States",
             "My family has been in the United States for 3 generations or more",
-            "None of the above",
+            "I do not live / do not intent to stay in the United States",
+            "Other",
             "Prefer not to answer"),
    last_ord = "Missing"
    )
 ```
 
 ### Age
-**2020 - What is your year (YYYY) of birth?**
+**2021 - What is your year (YYYY) of birth?**
 
 ```{r, message = FALSE, echo = FALSE }
 tt(df$age_bin, order_prop = F)
@@ -228,22 +238,33 @@ median_hist(df$age,
 )
 ```
 
-### Sexuality
+### Sexuality 
 **Do you consider yourself to be ...?**
 ```{r, message = FALSE, echo = FALSE }
-tt(df$sexual_orientation,
-   order_prop = T,
-   last_ord = c("Prefer not to answer", "Missing")
-   )
+
+tt(df$sexual_orientation_bin, order_prop = T)
+
+```
+
+### Sexuality Bin 
+**Do you consider yourself to be ...?**
+```{r, message = FALSE, echo = FALSE }
+
+tt(df$sexual_orientation_bin_lgbtq, order_prop = T)
+
 ```
 
 ### Disability
-**Do you identify as a disabled? You are considered to have a disability if you have a physical or mental impairment or medical condition that substantially limits a major life activity, or if you have a history or record of such an impairment or medical condition.**
+**Do you identify as disabled? You are considered to have a disability if you have a physical or mental impairment or medical condition that substantially limits a major life activity, or if you have a history or record of such an impairment or medical condition.**
 
 ```{r, message = FALSE, echo = FALSE }
 tt(df$disabled,
    order_prop = F, 
-   lvls = c("Yes, I have or previously had a disability", "No, I don't have a disability", "Other", "Prefer not to answer"))
+   lvls = c(
+     "Yes, I have or previously had a disability", 
+     "No, I don't have a disability", 
+     "Other",
+     "Prefer not to answer"))
 ```
 
 ### Military Status
@@ -251,7 +272,8 @@ tt(df$disabled,
 ```{r, message = FALSE, echo = FALSE }
 tt(df$military_status, 
    order_prop = F, 
-   lvls = c("Yes, Reserve/National Guard", "Yes, Veteran", "No", "Prefer not to answer"))
+   lvls = c(
+     "Yes, Active Duty", "Yes, Veteran", "No"))
 
 ```
 
@@ -261,14 +283,16 @@ tt(df$military_status,
 ```{r, message = FALSE, echo = FALSE }
 tt(df$education_level,
    order_prop = F,
-   lvls = c("High School Diploma or GED",
-            "Associate's Degree",
-            "Bachelor’s Degree",
-            "Post-bachelor’s Work, no Higher Degree",
-            "Master’s or Professional Degree (MA, MPP, JD, etc.)",
-            "Doctoral Degree (PhD)",
-            "Other", 
-            "Prefer not to answer")
+   lvls = c(
+     "Didn't Complete High School",
+     "High School Diploma or GED",
+     "Associate's Degree",
+     "Bachelor’s Degree",
+     "Post-bachelor’s Work, no Higher Degree",
+     "Master’s or Professional Degree (MA, MPP, JD, etc.)",
+     "Doctoral Degree (PhD)",
+     "Other", 
+     "Prefer not to answer")
    )
 ```
 
@@ -279,8 +303,6 @@ tt(df$education_level,
 
 **What country do you live in? **
 ```{r, message = FALSE, echo = FALSE }
-# this is now user-submitted rather than IP generated
-
 tt(df$country, order_prop = T)
 ```
 
@@ -304,74 +326,91 @@ tt(
 
 
 ## Work Experience {.tabset}
-### Politics & Data
-**How many years of work experience do you have in progressive politics and in data, analytics, and technology (i.e., how many years have you been a progressive data, analytics, or technology practitioner)?**
+
+### Total
+**How many total years of work experience do you have, in any field?**
 
 ```{r, message = FALSE, echo = FALSE }
+# subset to relevant dataset
+we_df <- df$years_worked_total[df$work_hist_eligible == TRUE]
+
 median_hist(
-  df$years_worked_political_data[df$work_hist_eligible == TRUE],
-  x_label = "Years Working in Political Data",
+  x = we_df,
+  x_label = "Total Years",
   med_label = "Median Years of Experience:",
-  med_label_x_cord = median(df$years_worked_political_data, na.rm = TRUE) + 7,
-  med_label_y_cord = 75, 
-  color_hist = "#21908CFF")
+  med_label_x_cord = median(we_df, na.rm = TRUE) + 12,
+  med_label_y_cord = 50, 
+  color_hist = "#BB3754FF"
+  )
 ```
 
-### Politics, Not Data
-**How many years of work experience do you have in progressive politics but not in data, analytics, and technology (i.e., exclude any years worked in data, analytics, and technology)?**
-
+### Politics 
+**Of those years, how many did you spend working in progressive politics? (e.g. working as at a campaign or advocacy org, regardless of whether you worked in a data role).**
 ```{r, message = FALSE, echo = FALSE }
+
+# subset to relevant dataset
+we_df <- df$years_worked_political[df$work_hist_eligible == TRUE]
+
 median_hist(
-  df$years_worked_political[df$work_hist_eligible == TRUE],
-  x_label = "Years in Politics But Not Data",
+  we_df,
+  x_label = "Years in Politics",
   med_label = "Median Years of Experience:",
-  med_label_x_cord = median(df$years_worked_political, na.rm = TRUE) + 8,
+  med_label_x_cord = median(we_df, na.rm = TRUE) + 8,
   med_label_y_cord = 75, 
   color_hist = "#DD513AFF"
   )
 ```
 
 
+
 ### Data, Not Politics
-**How many years of work experience do you have in data, analytics, and technology but not in progressive politics (i.e., exclude any years worked in progressive politics)?**
+**How many years have you worked in data, analytics, and technology, regardless of whether those years were in politics or a private sector role?**
+
 ```{r, message = FALSE, echo = FALSE }
-median_hist(df$years_worked_data[df$work_hist_eligible == TRUE],
-            x_label = "Years in Data But Not Politics",
+# subset to relevant dataset
+
+we_df <- df$years_worked_data[df$work_hist_eligible == TRUE]
+
+
+median_hist(x = we_df,
+            x_label = "Years in Data, Analytics, and Technology",
             med_label = "Median Years of Experience:",
-            med_label_x_cord = median(df$years_worked_data, na.rm = TRUE) + 10,
-            med_label_y_cord = 75, 
+            med_label_x_cord = median(we_df, na.rm = TRUE) + 7,
+            med_label_y_cord = 45, 
             color_hist = "#FCA50AFF"
   )
 ```
 
 
-### Total
+
+### Politics & Data
+**How many years have you specifically worked in data, analytics, or technology specifically for a political organization? **
 
 ```{r, message = FALSE, echo = FALSE }
+
+# subset to relevant dataset
+we_df <- df$years_worked_political_data[df$work_hist_eligible == TRUE]
+
 median_hist(
-  df$years_worked_total[df$work_hist_eligible == TRUE],
-  x_label = "Total Years",
+  x = we_df,
+  x_label = "Years Working in Political Data",
   med_label = "Median Years of Experience:",
-  med_label_x_cord = median(df$years_worked_total, na.rm = TRUE) + 7,
-  med_label_y_cord = 50, 
-  color_hist = "#BB3754FF"
-  )
+  med_label_x_cord = median(
+    we_df,
+    na.rm = TRUE) + 7,
+  med_label_y_cord = 100, 
+  color_hist = "#21908CFF")
 ```
+
+
 
 ## Employment Status {.tabset}
 
 ### Current Status
-**What is your current employment status (as of January 2021)? Select all that apply.**
+**What is your current employment status (as of December 2021)?  Select all that apply.**
 ```{r, message = FALSE, echo = FALSE }
-mult_resp(df, "employment_status_jan_21",  order_prop = T)
+mult_resp(df, "employment_status_dec_21",  order_prop = T)
 ```
-
-### During 2020 election cycle
-**What was your employment status during the 2020 election cycle? Select all that apply.**
-```{r, message = FALSE, echo = FALSE }
-mult_resp(df, "employment_status_cycle_20",  order_prop = T)
-```
-
 
 
 ### Involvement in Data/Analytics/Tech
@@ -382,7 +421,6 @@ mult_resp(df, "employment_status_cycle_20",  order_prop = T)
 
 ```{r, message = FALSE, echo = FALSE }
 # make a df of just the columns/values we are interested in 
-
 tmp <- df %>%
   select(starts_with("data_40")) %>%
   filter(!is.na(data_40_org), !is.na(data_40_team),!is.na(data_40_role))
@@ -393,16 +431,16 @@ tmp2 <- reshape2::melt(tmp, id.vars = "category")
 
 
 plot_data <- tmp2 %>%
-  # for each question, get percents of people who answered yes and no
+  # for each question, get percent of people who answered yes and no
   count(variable, value) %>%
   group_by(variable) %>%
   mutate(pct = n /sum(n)) %>%
   # create label for bar plot
   mutate(bar_label =  paste0(
      sprintf("%.1d%%", round(100 * pct)), " Yes \n (n = ", n, ")")) %>%
-  # for the "no" values make the bar_label empty string 
+  # for the "no" values make the bar_label an empty string 
   mutate(bar_label= ifelse(value == "No", " ", bar_label))%>%
-  # rename values in variable column so it easier to plot
+  # rename values in variable column so it us easier to plot
   mutate(variable = case_when(
    variable == "data_40_org" ~ "Organization",
    variable == "data_40_team" ~ "Team",
@@ -489,7 +527,7 @@ In the appendix, you can view management by gender and race.
 
 
 ## Time Writing Code {.tabset}
-**What percentage of your time do you spend directly conducting analysis or writing code - as opposed to other work such as communicating with external partners or managing staff?**
+**What percentage of your time do you spend directly conducting analysis or writing code - as opposed to other work such as managing staff or collaborating with external partners or other departments?**
 
 ### Overall
 ```{r, message = FALSE, echo = FALSE }
@@ -542,10 +580,10 @@ tmp <- df %>%
 # plot the density plot
 ggplot(tmp, aes(x = perc_time_coding * 100,
            y = seniority_level_label)) +
-  geom_density_ridges(rel_min_height = 0.01) +
+  ggridges::geom_density_ridges(rel_min_height = 0.01) +
  labs(x = "% of Time Conducting Analysis or Writing Code",
       y = " ") +
-  theme_ridges() +
+  ggridges::theme_ridges() +
   theme(axis.text = element_text(size = 10),
         axis.title = element_text(size = 10))
 
@@ -575,10 +613,10 @@ tmp <- df %>%
 # plot the density plot
 ggplot(tmp, aes(x = perc_time_coding * 100,
            y = job_team_label)) +
-  geom_density_ridges(rel_min_height = 0.01) +
+  ggridges::geom_density_ridges(rel_min_height = 0.01) +
  labs(x = "% of Time Conducting Analysis or Writing Code",
       y = " ") +
-  theme_ridges() +
+  ggridges::theme_ridges() +
   theme(axis.text = element_text(size = 10),
         axis.title = element_text(size = 10))
 
@@ -591,8 +629,10 @@ ggplot(tmp, aes(x = perc_time_coding * 100,
 **In US Dollars, what is your total expected annual pre-tax income, including bonuses or commissions? This figure may be salaried or unsalaried.**
 
 ```{r, message = FALSE, echo = FALSE }
+# create a column called "All", so we can use the "salary cross" function to 
+# determine median and average salary of entire universe
 df1 <- df %>%
-  mutate( variable = "All") 
+  mutate(variable = "All") 
 
 salary_cross(x = df1, 
              variable = variable,
@@ -601,6 +641,7 @@ salary_cross(x = df1,
              salary_bin_numeric = compensation_bin_numeric,
              order_by = "n") 
 
+# remove unneeded df 
 rm(df1)
 ```
 
@@ -612,9 +653,9 @@ rm(df1)
 salary_lvls <- df %>%
   arrange(compensation_bin_numeric) %>%
   select(compensation_bin) %>%
-  unique() 
+  unique()
 
-tt(df$compensation_bin, lvls = as.vector(salary_lvls$compensation_bin))
+tt(df$compensation_bin, lvls = salary_lvls$compensation_bin, order_prop = F)
 ```
 
 ## Benefits
@@ -639,17 +680,28 @@ tt(df$negotiate_yesno,
 In the appendix, you can view negotiation outcomes by gender and race.
 
 ### Negotiation Successful {.tabset}
-
 **Was your negotiation successful? Please select all that apply.** [only asked to respondents who attempted a negotiation]
-
 
 ```{r, message = FALSE, echo = FALSE }
 
-mult_resp(df %>% filter(negotiate_yesno =="Yes"),
+mult_resp(
+  # remove people who didn't attempt a negotation 
+  df %>% filter(negotiate_yesno =="Yes"),
           "negotiation_result")
 ```
 
 In the appendix, you can view negotiation outcomes by gender and race.
+
+
+### Use Salary Survey {.tabset}
+**Have you ever used the results of this salary survey to negotiate salary or benefits for yourself or others?**
+
+```{r, message = FALSE, echo = FALSE }
+tt(df$negotiated_w_survey, 
+   lvls = c("Yes", "No", "Unsure"),
+   last_ord = "Missing")
+```
+
 
 ## Professional Development {.tabset}
 
@@ -668,9 +720,11 @@ tt(
 ### Available 
 **What types of employer-funded professional development opportunities are available to you? Please select all that apply.** [only asked to respondents who are offered career development opportunities]
 ```{r, message = FALSE, echo = FALSE }
-mult_resp(df %>% filter(prof_dev_yesno == "Yes"),
-          "prof_dev_available",
-          order_prop = T)
+mult_resp(
+  # filter out people who aren't offered PD opps 
+  df %>% filter(prof_dev_yesno == "Yes"),
+  "prof_dev_available",
+  order_prop = T)
 ```
 
 
@@ -680,7 +734,6 @@ mult_resp(df %>% filter(prof_dev_yesno == "Yes"),
 
 ```{r, message = FALSE, echo = FALSE }
 
-# these values are now validated by Olivia as of 4/11
 mult_resp(df ,
           "prof_dev_used", 
           order_prop = T, 
@@ -693,7 +746,7 @@ mult_resp(df ,
 
 **Thinking about your career path and focus, which one specific skill or tool do you most want to learn?**
 
-Responses to this question included data visualization, GIS/mapping, working with APIs, management, modeling, and python. 
+Responses to this question included dbt, python, management, and advanced statistics.
 
 
 # Salary Crosstabs 
@@ -702,35 +755,65 @@ In all of the following crosstabs, salary information is excluded for groups wit
 
 ## Respondent Characteristics {.tabset}
 
-### Gender
+### Gender  
 
-```{r, message = FALSE, echo = FALSE }
+```{r, message = FALSE, echo = FALSE, warning = FALSE}
 var <- substitute(gender_bin)
 
 salary_cross(x = df,
              variable = var,
-             salary = compensation, 
-             salary_bin = compensation_bin, 
+             salary = compensation,
+             salary_bin = compensation_bin,
              salary_bin_numeric = compensation_bin_numeric,
              order_by = "n")
-
-plot_salary(df, var) + 
- # scale_colour_viridis_d(option = "A") +
-  theme_minimal() + 
-  labs(color = "Gender") + 
-
-  scale_color_manual(values = viridis::viridis(3, end = .85))
-
-
 ```
 
 
+### Gender Binned 
+
+```{r, message = FALSE, echo = FALSE }
+var <- substitute(gender_bin_cisman)
+
+salary_cross(x = df,
+             variable = var,
+             salary = compensation,
+             salary_bin = compensation_bin,
+             salary_bin_numeric = compensation_bin_numeric,
+             order_by = "alpha")
+
+plot_salary(df, var) +
+ # scale_colour_viridis_d(option = "A") +
+  theme_minimal() +
+  labs(color = "Gender") +
+  scale_color_manual(values = viridis::viridis(4, end = .85))
+
+```
+
+### Trans or Cis
+
+```{r, message = FALSE, echo = FALSE }
+var <- substitute(gender_bin_cis)
+
+salary_cross(x = df,
+             variable = var,
+             salary = compensation,
+             salary_bin = compensation_bin,
+             salary_bin_numeric = compensation_bin_numeric,
+             order_by = "alpha")
+
+plot_salary(df, var) +
+ # scale_colour_viridis_d(option = "A") +
+  theme_minimal() +
+  labs(color = "Gender") +
+  scale_color_manual(values = viridis::viridis(2, end = .85))
+
+```
 
 
 ### Race
 
 ```{r, message = FALSE, echo = FALSE }
-var <- substitute(race_bin2)
+var <- substitute(race_bin_bipoc)
 
 salary_cross(x = df,
              variable = var,
@@ -740,27 +823,26 @@ salary_cross(x = df,
              order_by = "n",
              last_ord = c("Prefer not to answer"))
 
-
-plot_salary(df, var) + theme_minimal() +  labs(color = "Race") + 
-  scale_color_manual(values = viridis::viridis(2, end = .8))
+# missing category too small of a bin, so dropping from plot
+plot_salary(df %>% filter(race_bin_bipoc != "Missing"), var) +
+  theme_minimal() +
+  labs(color = "Race") + 
+  scale_color_manual(values = viridis::viridis(3, end = .8))
 
 ```
 
-### Race x Gender
+### Race x Gender 
 
 ```{r, message = FALSE, echo = FALSE }
 var <- substitute(gender_race)
 
 salary_cross(x = df,
              variable = var,
-             salary = compensation, 
-             salary_bin = compensation_bin, 
+             salary = compensation,
+             salary_bin = compensation_bin,
              salary_bin_numeric = compensation_bin_numeric,
              order_by = "n",
              last_ord = c("Prefer not to answer"))
-
-
-
 ```
 
 
@@ -782,19 +864,20 @@ salary_cross(x = df,
 
 
 ### Sexuality 
+
 ```{r, message = FALSE, echo = FALSE }
 
-var <- substitute(sexual_orientation_bin)
+var <- substitute(sexual_orientation_bin_lgbtq)
 
 salary_cross(x = df,
              variable = var,
-             salary = compensation, 
-             salary_bin = compensation_bin, 
+             salary = compensation,
+             salary_bin = compensation_bin,
              salary_bin_numeric = compensation_bin_numeric,
              order_by = "n",
              last_ord = c("Prefer not to answer"))
 
-plot_salary(df, var) + theme_minimal() +  labs(color = "Sexuality") + 
+plot_salary(df, var) + theme_minimal() +  labs(color = "Sexuality") +
   scale_color_manual(values = c("#03051AFF", "#CB1B4FFF"))
 ```
 
@@ -825,13 +908,15 @@ salary_cross(x = df,
              salary_bin = compensation_bin, 
              salary_bin_numeric = compensation_bin_numeric,
              order_by = "levels", # mean, levels, alpha
-              lvls = c("High School Diploma or GED", 
-                       "Associate's Degree", 
-                       "Bachelor’s Degree", 
-                       "Post-bachelor’s Work, no Higher Degree", 
-                       "Master’s or Professional Degree (MA, MPP, JD, etc.)", 
-                       "Doctoral Degree (PhD)", 
-                       "Other"), 
+              lvls = c(
+                "Didn’t complete high school",
+                "High School Diploma or GED", 
+                "Associate's Degree", 
+                "Bachelor’s Degree", 
+                "Post-bachelor’s Work, no Higher Degree", 
+                "Master’s or Professional Degree (MA, MPP, JD, etc.)", 
+                "Doctoral Degree (PhD)", 
+                "Other"), 
     last_ord = c("Prefer not to answer", "Missing")
              ) 
 
@@ -875,13 +960,31 @@ salary_cross(x = df,
              salary_bin = compensation_bin, 
              salary_bin_numeric = compensation_bin_numeric,
              order_by = "n", # n, levels, alpha
-
              lvls = NULL,
              last_ord = NULL)
 ```
 
-
 ### Seniority 
+
+```{r, message = FALSE, echo = FALSE }
+
+salary_cross(x = df, 
+             variable = seniority_level,
+             salary = compensation, 
+             salary_bin = compensation_bin, 
+             salary_bin_numeric = compensation_bin_numeric,
+             order_by = "levels", # mean, levels, alpha
+              lvls = c("Entry-Level",
+                       "Mid-Level",
+                       "Senior-Level, but not Department Head",
+                       "Department Head",
+                       "Organization Head, President or C-Level",
+                       "Other",
+                       "Freelance"))
+
+```
+
+### Seniority - binned 
 
 ```{r, message = FALSE, echo = FALSE }
 
@@ -912,11 +1015,28 @@ salary_cross(x = df %>%
 
 In the appendix, you can view salary by more granular seniority categories.
 
-
 ### Management 
+```{r, message = FALSE, echo = FALSE }
+salary_cross(x = df,
+  variable = num_staffers,
+  salary = compensation, 
+  salary_bin = compensation_bin, 
+  salary_bin_numeric = compensation_bin_numeric,
+  order_by = "levels", # mean, levels, alpha
+  lvls = c("0 staffers",
+           "1-4 staffers", 
+           "5-9 staffers",
+           "10-14 staffers",
+           "More than 15 staffers"))
+
+```
+
+
+### Management -- binned 
 
 ```{r, message = FALSE, echo = FALSE }
 salary_cross(x = df %>% mutate(
+  # create 0 staffers, 1-4 staffers, 5+ staffers bin
   num_staffers_bin = case_when(
     num_staffers == "0 staffers" ~ "0 staffers", 
     num_staffers == "1-4 staffers" ~ "1-4 staffers", 
@@ -1019,6 +1139,7 @@ mutate(new_name = case_when(
   response_name_short == "dev ops" ~ "DevOps", 
   response_name_short == "digi ads" ~ "Digital Ad platforms")
   )  %>% 
+  # if a new name wasn't created, use default response name 
   mutate(new_name = ifelse(
     is.na(new_name), 
     response_name,
@@ -1077,7 +1198,7 @@ p <- ggplot(
         legend.position = "bottom", 
         legend.text = element_text(size = 15)) +
   guides(fill = guide_legend(reverse = TRUE))
-
+# plot
 p
 ```
 
@@ -1098,7 +1219,7 @@ tmp2 <- reshape2::melt(tmp, id.vars = "category")
 
 
 plot_data <- tmp2 %>%
-  # change value to Never used and Used Before 
+  # change response values to two options: Never used and Used Before 
   mutate(value = case_when(
     value == "Never used this before" ~ "Never Used", 
     value != "Never used this before" ~ "Used Before")
@@ -1200,6 +1321,7 @@ p <- ggplot(
         legend.text = element_text(size = 15)) +
   guides(fill = guide_legend(reverse = TRUE))  
 
+# plot 
 p
 
 ```
@@ -1339,25 +1461,8 @@ p
 ### Technical
 
 ```{r, message = FALSE, echo = FALSE }
-# technical
 
-tmp <- select(
-  df,
-  projects_done_management.resp.universes,
-  projects_done_management.resp.rct,
-  projects_done_management.resp.pipelines,
-  projects_done_management.resp.stats_analysis,
-  projects_done_management.resp.software_dev_manage,
-  projects_done_management.resp.polling,
-  projects_done_management.resp.build_model,
-  projects_done_management.resp.software_dev,
-  projects_done_management.resp.dev_ops, 
-  projects_done_management.resp.reporting, 
-  projects_done_technical.resp.none
-              ) %>% 
-  rename(projects_done_management.resp.none = projects_done_technical.resp.none)
-
-mult_resp(tmp, "projects_done_management", order_prop = T)
+mult_resp(df, "projects_done_technical", order_prop = T)
 
 ```
 
@@ -1366,18 +1471,8 @@ mult_resp(tmp, "projects_done_management", order_prop = T)
 ### Management
 
 ```{r, message = FALSE, echo = FALSE }
-tmp <- select(
-  df,
-  projects_done_management.resp.review_work,
-  projects_done_management.resp.present_results,
-  projects_done_management.resp.pitch_project,
-  projects_done_management.resp.coordinate_orgs,
-  projects_done_management.resp.hire_fire,
-  projects_done_management.resp.create_prof_dev_plan, 
-  projects_done_management.resp.none
-              )
 
-mult_resp(tmp, "projects_done_management", order_prop = T)
+mult_resp(df, "projects_done_management", order_prop = T)
 ```
 
 
@@ -1392,7 +1487,7 @@ mult_resp(df, "skills_learning_method", order_prop = T)
 ## Open-Ended 
 **Please describe any other major components of your work.**
 
-Responses to this question included building dashboards, managing client relations, CRM management, project management, and trainings.
+Responses to this question included strategic planning, developing partnerships, and project management.
 
 
 
@@ -1437,26 +1532,34 @@ mult_resp(df, "role_next_year", order_prop =  T)
 # Covid{.tabset}
 
 ## Additional Benefits
-**Regardless of whether you were eligible, did your employer offer any additional benefits due to the COVID-19 pandemic?** 
+**Has your employer continued any additional benefits they offered due to the COVID-19 pandemic?** 
 ```{r, message = FALSE, echo = FALSE }
-tt(df$covid_benefits_yesno, 
+tt(df$covid_benefits_continued, 
    order_prop = F, 
-   lvls = c("Yes", "No", "Unsure"))
+   lvls = c("Yes, they were made permanent",
+            "Yes, but they are temporary",
+            "No", "Unsure"))
 ```
 
-
-## Benefits Offered 
-**What sort of benefits were offered/provided? Please select all that apply.** [only asked to respondents whose organizations offered any additional benefits due to the COVID-19 pandemic]
+## Return to Office 
+**What is your employer’s plan for returning to office? Employees are or will:** 
 
 ```{r, message = FALSE, echo = FALSE }
-mult_resp(df %>% filter(covid_benefits_yesno == "Yes"),
-          "covid_benefits_specific", order_prop = T)
+tt(df$return_to_office, 
+   order_prop = T)
 ```
 
-## Open-Ended
-**Please briefly describe how your organization handled the COVID-19 pandemic to make things easier for staff. **
 
-Beyond the responses covered in the question above, organizations implemented four-day work weeks, had no meeting work days to combat zoom fatigue, and established relief funds for employees financially impacted by the pandemic. 
+## COVID-19 Vaccine 
+**Is your employer requiring employees to be vaccinated against COVID-19?** 
+
+```{r, message = FALSE, echo = FALSE }
+tt(df$require_vax, 
+   order_prop = F, 
+   lvls = c("Yes",
+            "No",
+            "Unsure"))
+```
 
 
 # Union {.tabset}
@@ -1479,7 +1582,10 @@ tt(df$bargaining_unit_member[df$is_unionized == "Yes"],
 **When did your organization unionize?** [only asked to respondents whose organization is unionized or has one or more recognized bargaining units]
 ```{r, message = FALSE, echo = FALSE }
 tt(df$when_unionized[df$is_unionized == "Yes"], 
-   lvls = c("Within the past two years", "In the past two to five years", "More than five years ago", "I’m not sure")
+   lvls = c("Within the past two years",
+            "In the past two to five years", 
+            "More than five years ago",
+            "I’m not sure")
    )
 ```
 
@@ -1507,7 +1613,7 @@ The second criteria was satisfied if the respondents answered “Yes” to one o
 
 This year’s salary survey was conducted and analyzed by Amit Mistry, Cristina Sinclaire, Lena Tom, Mahelet Fekade, and Olivia Robinson. Please reach out to us at salarysurvey@progressivedatajobs.org with any questions, comments, or concerns.
 
-We want to thank the folks who have conducted the salary surveys in the past (listed alphabetically): Anna Cooper, Annie J. Wang, Audra Grassia, Chelsea Harris, Kass DeVorsey, Lizzie Ellis, Mike Jensen, and Sandhya Anathamaran. 
+We want to thank the folks who have conducted the salary surveys in the past (listed alphabetically): Anna Cooper, Annie J. Wang, Audra Grassia, Chelsea Harris, Kass DeVorsey, Lizzie Ellis, Mike Jensen, and Sandhya Anantharaman. 
 
 And the biggest thank you goes to everyone who took and shared the survey!
 
@@ -1568,12 +1674,11 @@ salary_cross(x = df,
 
 
 ```{r, message = FALSE, echo = FALSE }
-cat_cross(x = df, 
-  question = negotiate_yesno, 
-  cross_var = gender_bin, 
-  order_by = "levels", 
-  lvls = c("Yes", "No", "Not applicable (union, freelancer, etc.)"), 
-
+cat_cross(x = df,
+  question = negotiate_yesno,
+  cross_var = gender_bin,
+  order_by = "levels",
+  lvls = c("Yes", "No", "Not applicable (union, freelancer, etc.)"),
   last_ord = NULL)
 
 ```
@@ -1585,15 +1690,15 @@ cat_cross(x = df,
 mult_resp_cross(
   # remove people who didn't answer yes to the previous question
   x = df[df$negotiate_yesno == "Yes", ],
-  question_prefix = "negotiation_result", 
-  cross_var = gender_bin, 
+  question_prefix = "negotiation_result",
+  cross_var = gender_bin,
   lvls = c(
-    "Yes, I increased my benefits", 
-    "Yes, I increased my compensation", 
-    "Yes, I improved my title", 
-    "No, I did not gain improved compensation, benefits or title"
+    "Yes, I increased my benefits",
+    "Yes, I increased my compensation",
+    "Yes, I improved my title",
+    "No, I did not improve my compensation, benefits or title"
   )
-) 
+)
 
 ```
 
@@ -1602,11 +1707,11 @@ mult_resp_cross(
 **During your last job offer or performance review, did you try to negotiate your salary?**
 
 ```{r, message = FALSE, echo = FALSE }
-cat_cross(x = df, 
-  question = negotiate_yesno, 
-  cross_var = race_bin2, 
-  order_by = "levels", 
-  lvls = c("Yes", "No", "Not applicable (union, freelancer, etc.)"), 
+cat_cross(x = df,
+  question = negotiate_yesno,
+  cross_var = race_bin_bipoc,
+  order_by = "levels",
+  lvls = c("Yes", "No", "Not applicable (union, freelancer, etc.)"),
   last_ord = NULL)
 
 ```
@@ -1619,13 +1724,13 @@ cat_cross(x = df,
 mult_resp_cross(
   # remove people who didn't answer yes to the previous question
   x = df[df$negotiate_yesno == "Yes", ],
-  question_prefix = "negotiation_result", 
-  cross_var = race_bin2, 
+  question_prefix = "negotiation_result",
+  cross_var = race_bin_bipoc,
   lvls = c(
-    "Yes, I increased my benefits", 
-    "Yes, I increased my compensation", 
-    "Yes, I improved my title", 
-    "No, I did not gain improved compensation, benefits or title"
+    "Yes, I increased my benefits",
+    "Yes, I increased my compensation",
+    "Yes, I improved my title",
+    "No, I did not improve my compensation, benefits or title"
   )
 )
 
@@ -1643,8 +1748,7 @@ cat_cross(x = df,
   cross_var = gender_race, 
   order_by = "levels", 
   lvls = c("Yes", "No", "Not applicable (union, freelancer, etc.)"), 
-
-  last_ord = NULL)
+   last_ord = NULL)
 
 ```
 
@@ -1653,26 +1757,16 @@ cat_cross(x = df,
 [Only asked to respondents who attempted a negotiation. Trans or Nonbinary reported for all races because of small n-sizes.]
 ```{r, message = FALSE, echo = FALSE }
 
-df <- df %>% 
-  mutate(
-    gender_race2 = case_when(
-      gender_race %in% c(
-        "White | Trans or Nonbinary", 
-        "POC/Other | Trans or Nonbinary" 
-      ) ~ "Any Race | Trans or Nonbinary", 
-     TRUE ~ gender_race)
-    ) 
-
 mult_resp_cross(
   # remove people who didn't answer yes to the previous question
   x = df[df$negotiate_yesno == "Yes", ],
-  question_prefix = "negotiation_result", 
-  cross_var = gender_race2, 
+  question_prefix = "negotiation_result",
+  cross_var = gender_race,
   lvls = c(
-    "Yes, I increased my benefits", 
-    "Yes, I increased my compensation", 
-    "Yes, I improved my title", 
-    "No, I did not gain improved compensation, benefits or title"))
+    "Yes, I increased my benefits",
+    "Yes, I increased my compensation",
+    "Yes, I improved my title",
+    "No, I did not improve my compensation, benefits or title"))
 
 ```
 
@@ -1685,16 +1779,16 @@ mult_resp_cross(
 ```{r, message = FALSE, echo = FALSE }
 cat_cross(x = df %>% mutate(
   num_staffers_bin = case_when(
-    num_staffers == "0 staffers" ~ "0 staffers", 
-    num_staffers == "1-4 staffers" ~ "1-4 staffers", 
+    num_staffers == "0 staffers" ~ "0 staffers",
+    num_staffers == "1-4 staffers" ~ "1-4 staffers",
     num_staffers != "0 staffers" | num_staffers != "1-4 staffers" ~ "5+ staffers"
     )
-  ), 
+  ),
   question = num_staffers_bin,
-  cross_var = gender_bin, 
+  cross_var = gender_bin,
   order_by = "levels", # mean, levels, alpha
   lvls = c("0 staffers",
-           "1-4 staffers", 
+           "1-4 staffers",
            "5+ staffers"),
     last_ord = NULL
 )
@@ -1704,16 +1798,16 @@ cat_cross(x = df %>% mutate(
 ```{r, message = FALSE, echo = FALSE }
 cat_cross(x = df %>% mutate(
   num_staffers_bin = case_when(
-    num_staffers == "0 staffers" ~ "0 staffers", 
-    num_staffers == "1-4 staffers" ~ "1-4 staffers", 
+    num_staffers == "0 staffers" ~ "0 staffers",
+    num_staffers == "1-4 staffers" ~ "1-4 staffers",
     num_staffers != "0 staffers" | num_staffers != "1-4 staffers" ~ "5+ staffers"
     )
-  ), 
-  question = num_staffers_bin, 
-  cross_var = race_bin2, 
-  order_by = "levels", 
+  ),
+  question = num_staffers_bin,
+  cross_var = race_bin_bipoc,
+  order_by = "levels",
   lvls = c("0 staffers",
-           "1-4 staffers", 
+           "1-4 staffers",
            "5+ staffers")
 )
 
@@ -1724,16 +1818,16 @@ cat_cross(x = df %>% mutate(
 
 cat_cross(x = df %>% mutate(
   num_staffers_bin = case_when(
-    num_staffers == "0 staffers" ~ "0 staffers", 
-    num_staffers == "1-4 staffers" ~ "1-4 staffers", 
+    num_staffers == "0 staffers" ~ "0 staffers",
+    num_staffers == "1-4 staffers" ~ "1-4 staffers",
     num_staffers != "0 staffers" | num_staffers != "1-4 staffers" ~ "5+ staffers"
     )
-  ), 
-  question = num_staffers_bin, 
-  cross_var = gender_race, 
-  order_by = "levels", 
+  ),
+  question = num_staffers_bin,
+  cross_var = gender_race,
+  order_by = "levels",
   lvls = c("0 staffers",
-           "1-4 staffers", 
+           "1-4 staffers",
            "5+ staffers")
 )
 
@@ -1749,24 +1843,24 @@ cat_cross(x = df %>% mutate(
 ### By Gender 
 ```{r, message = FALSE, echo = FALSE }
 
-cat_cross(x = df %>% 
+cat_cross(x = df %>%
                mutate(
                  seniority_level_binned = case_when(
                  seniority_level == "Entry-Level" ~ "Entry-Level",
                  seniority_level == "Mid-Level" ~ "Mid-Level",
-                 seniority_level %in% c("Organization Head, President or C-Level", 
-                                        "Senior-Level, but not Department Head", 
-                                        "Department Head") ~ "Senior-Level", 
-                 seniority_level == "Other" ~ "Other", 
+                 seniority_level %in% c("Organization Head, President or C-Level",
+                                        "Senior-Level, but not Department Head",
+                                        "Department Head") ~ "Senior-Level",
+                 seniority_level == "Other" ~ "Other",
                  seniority_level == "Freelance" ~ "Freelance"
                  )
-                 ), 
-  question = seniority_level_binned, 
-  cross_var = gender_bin, 
-  order_by = "levels", 
+                 ),
+  question = seniority_level_binned,
+  cross_var = gender_bin,
+  order_by = "levels",
    lvls = c("Entry-Level",
                          "Mid-Level",
-                         "Senior-Level", 
+                         "Senior-Level",
                          "Other",
                          "Freelance"))
 
@@ -1777,24 +1871,24 @@ cat_cross(x = df %>%
 ```{r, message = FALSE, echo = FALSE }
 
 
-cat_cross(x = df %>% 
+cat_cross(x = df %>%
                mutate(
                  seniority_level_binned = case_when(
                  seniority_level == "Entry-Level" ~ "Entry-Level",
                  seniority_level == "Mid-Level" ~ "Mid-Level",
-                 seniority_level %in% c("Organization Head, President or C-Level", 
-                                        "Senior-Level, but not Department Head", 
-                                        "Department Head") ~ "Senior-Level", 
-                 seniority_level == "Other" ~ "Other", 
+                 seniority_level %in% c("Organization Head, President or C-Level",
+                                        "Senior-Level, but not Department Head",
+                                        "Department Head") ~ "Senior-Level",
+                 seniority_level == "Other" ~ "Other",
                  seniority_level == "Freelance" ~ "Freelance"
                  )
-                 ), 
-  question = seniority_level_binned, 
-  cross_var = race_bin2, 
-  order_by = "levels", 
+                 ),
+  question = seniority_level_binned,
+  cross_var = race_bin_bipoc,
+  order_by = "levels",
    lvls = c("Entry-Level",
                          "Mid-Level",
-                         "Senior-Level", 
+                         "Senior-Level",
                          "Other",
                          "Freelance"))
 ```
@@ -1803,29 +1897,27 @@ cat_cross(x = df %>%
 ### By Race x Gender
 
 ```{r, message = FALSE, echo = FALSE }
-cat_cross(x = df %>% 
+cat_cross(x = df %>%
                mutate(
                  seniority_level_binned = case_when(
                  seniority_level == "Entry-Level" ~ "Entry-Level",
                  seniority_level == "Mid-Level" ~ "Mid-Level",
-                 seniority_level %in% c("Organization Head, President or C-Level", 
-                                        "Senior-Level, but not Department Head", 
-                                        "Department Head") ~ "Senior-Level", 
-                 seniority_level == "Other" ~ "Other", 
+                 seniority_level %in% c("Organization Head, President or C-Level",
+                                        "Senior-Level, but not Department Head",
+                                        "Department Head") ~ "Senior-Level",
+                 seniority_level == "Other" ~ "Other",
                  seniority_level == "Freelance" ~ "Freelance"
                  )
-                 ), 
-  question = seniority_level_binned, 
-  cross_var = gender_race, 
-  order_by = "levels", 
+                 ),
+  question = seniority_level_binned,
+  cross_var = gender_race,
+  order_by = "levels",
    lvls = c("Entry-Level",
                          "Mid-Level",
-                         "Senior-Level", 
+                         "Senior-Level",
                          "Other",
                          "Freelance"))
 
 
 
 ```
-
-
